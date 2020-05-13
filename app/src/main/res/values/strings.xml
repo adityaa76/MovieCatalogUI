@@ -1,0 +1,148 @@
+<resources>
+    <string name="app_name">MovieCatalog</string>
+    <string name="name_movie">Nama Movie</string>
+    <string name="lorem">Lorem ipsum dolor sit amet</string>
+
+    <string-array name="data_name">
+        <item>Deadpool</item>
+        <item>Bumblebee</item>
+        <item>Dragon</item>
+        <item>Preman Pensiun</item>
+        <item>Spider-Man</item>
+        <item>Robin Hood</item>
+        <item>Venom</item>
+        <item>Mortal Engines</item>
+        <item>Avenger Infinity</item>
+        <item>Aquaman</item>
+    </string-array>
+
+    <array name="data_poster">
+        <item>@drawable/poster_deadpool</item>
+        <item>@drawable/poster_bumblebee</item>
+        <item>@drawable/poster_dragon</item>
+        <item>@drawable/poster_preman</item>
+        <item>@drawable/poster_spiderman</item>
+        <item>@drawable/poster_robinhood</item>
+        <item>@drawable/poster_venom</item>
+        <item>@drawable/poster_mortalengine</item>
+        <item>@drawable/poster_avengerinfinity</item>
+        <item>@drawable/poster_aquaman</item>
+    </array>
+
+    <array name="data_bg_poster">
+        <item>@drawable/bgdeadpool</item>
+        <item>@drawable/bgbumblebee</item>
+        <item>@drawable/bgdragon</item>
+        <item>@drawable/bgpreman</item>
+        <item>@drawable/bgspiderman</item>
+        <item>@drawable/bgrobinhood</item>
+        <item>@drawable/bgvenom</item>
+        <item>@drawable/bgmortal</item>
+        <item>@drawable/bgavengers</item>
+        <item>@drawable/bgaquaman</item>
+    </array>
+
+    <string-array name="data_genre">
+        <item>Fantasi</item>
+        <item>Laga</item>
+        <item>Fantasi</item>
+        <item>Drama</item>
+        <item>Fantasi</item>
+        <item>Laga</item>
+        <item>Fiksi ilmiah</item>
+        <item>Fiksi ilmiah</item>
+        <item>Fantasi</item>
+        <item>Fantasi</item>
+    </string-array>
+
+    <string-array name="data_description">
+        <item>Wade Wilson (Ryan Reynolds) berusaha melindungi seorang mutan misterius yang diincar Cable (Josh Brolin). Untuk melindunginya, Wade lalu membentuk sebuah tim bernama X-Force yang beranggotakan Deadpool sendiri, Domino, Negasonic Teenage Warhead, Colossus, dan Bedlam.</item>
+        <item>Dalam pelarian di tahun 1987, Bumblebee menemukan perlindungan di tempat rongsokan di sebuah kota kecil pinggir pantai California. Charlie, gadis yang tengah menyentuh usia 18 tahun dan sedang mencari data diri, menemukan Bumblebee, yang banyak tergores dan rusak. Ketika berusaha memfungsikannya lagi, Charlie menyaksikan sendiri bahwa ini bukanlah mobil VW kodok berwarna kuning yang biasa.</item>
+        <item>How to Train Your Dragon adalah sebuah film fantasi laga animasi komputer 3D Amerika Serikat tahun 2010 yang diproduksi oleh DreamWorks Animation berdasarkan buku dengan judul yang sama. Pengisi suara dalam film ini antara lain: Jay Baruchel, Gerard Butler, Craig Ferguson, Amerika Ferrera, Jonah Hill, T.J.</item>
+        <item>Preman Pensiun adalah film Indonesia tahun 2019 yang diadaptasi dari sebuah sinetron berjudul sama yang pernah tayang di stasiun televisi RCTI. Film ini disutradarai oleh Aris Nugraha yang juga sebagai penulis skenario dan diputar perdana pada 17 Januari 2019.</item>
+        <item>Spider-Man melintasi dimensi paralel dan bekerja sama dengan Spider-Man dari dimensi-dimensi tersebut untuk menghentikan ancaman terhadap semua realitas.</item>
+        <item>Robin Hood (Taron Egerton) sebagai tentara salib kembali ke negerinya dalam keadaan yang berbeda. Ia menemukan pejabat korup dan menghabiskan uang kerajaan sementara rakyat dalam keadaan sengsara. Bersama Little John (Jamie Foxx) ia melawan tirani inggris yang sangat kuat.</item>
+        <item>Seorang jurnalis, Eddie Brock (Tom Hardy) ingin melakukan sebuah investasi kasus terhadap penemuan yang dipimpin oleh Dr. Carlton Drake (Riz Ahmed). Karena investigasinya, Eddie mengunjungi lab milik Dr. Carlton Drake. Semuanya ditujukan untuk membuktikan bahwa Dr. Carlton Drake sedang melakukan tindakan jahat menggunakan Symbiote.</item>
+        <item>Mortal Engines mengisahkan keadaan dunia setelah kiamat. Tom adalah orang London berusia dua puluh yang hanya pernah hidup di kampung halamannya, dan kakinya tidak pernah menyentuh rumput, lumpur atau tanah.</item>
+        <item>The Avengers dan sekutu mereka harus bersedia mengorbankan segalanya dalam upaya untuk mengalahkan Thanos yang kuat sebelum ia berhasil menghancurkan alam semesta.</item>
+        <item>Film ini mengungkapkan asal-usul Arthur Curry, manusia perkasa yang bisa mengendalikan air dan hewan laut. Dari mana ia mendapatkan kekuatannya? Siapa orang tuanya, dan pantaskah dia menjadi seorang raja di 7 samudera?</item>
+    </string-array>
+
+    <string-array name="data_sutradara">
+        <item>David Leitch</item>
+        <item>Travis Knight</item>
+        <item>Jay Baruchel</item>
+        <item>Aris Nugraha</item>
+        <item>Peter Ramsey</item>
+        <item>Otto Bathurst</item>
+        <item>Ruben Fleischer</item>
+        <item>Christian Rivers</item>
+        <item>Anthony Russo</item>
+        <item>James Wan</item>
+    </string-array>
+
+    <string-array name="data_date">
+        <item>15 May 2018</item>
+        <item>19 Dec 2018</item>
+        <item>20 Mar 2010</item>
+        <item>17 Jan 2019</item>
+        <item>12 Dec 2018</item>
+        <item>20 Nov 2018</item>
+        <item>03 Oct 2018</item>
+        <item>13 Dec 2018</item>
+        <item>25 Apr 2018</item>
+        <item>21 Dec 2018</item>
+    </string-array>
+
+    <string-array name="data_production">
+        <item>Marvel Entertainment</item>
+        <item>Allspark Pictures</item>
+        <item>DreamWorks Animation</item>
+        <item>MNC Pictures</item>
+        <item>Sony Pictures Animation, Marvel Entertainment, Columbia Pictures</item>
+        <item>Summit Entertainment</item>
+        <item>Columbia Pictures, Marvel Entertainment, Tencent Pictures</item>
+        <item>Universal Pictures</item>
+        <item>Marvel Studios</item>
+        <item>Warner Bros. Pictures, DC Films</item>
+    </string-array>
+
+    <string-array name="data_producer">
+        <item>Simon Kinberg, Lauren Shuler Donner, Ryan Reynolds</item>
+        <item>Lorenzo di Bonaventura, Tom DeSanto, Don Murphy, Michael Bay</item>
+        <item>Bonnie Arnold, Brad Lewis</item>
+        <item>Aris Nugraha</item>
+        <item>Avi Arad, Amy Pascal, Phil Lord, Christina Steinberg</item>
+        <item>Jennifer Davisson, Leonardo DiCaprio</item>
+        <item>Avi Arad, Matt Tolmach, Amy Pascal</item>
+        <item>Zane Weiner, Amanda Walker, Peter Jackson</item>
+        <item>Kevin Feige</item>
+        <item>Peter Safran, Rob Cowan</item>
+    </string-array>
+
+    <string-array name="data_writter">
+        <item>Rhett Reese, Paul Wernick</item>
+        <item>Christina Hodson</item>
+        <item>Dean DeBlois</item>
+        <item>Aris Nugraha</item>
+        <item>Phil Lord</item>
+        <item>Ben Chandler</item>
+        <item>Jeff Pinkner, Scott Rosenberg</item>
+        <item>Simon Raby</item>
+        <item>Christopher Markus, Stephen McFeely</item>
+        <item>Geoff Johns, James Wan, Will Beall</item>
+    </string-array>
+    
+    <string-array name="data_distributor">
+        <item>20th Century Fox</item>
+        <item>Paramount Pictures</item>
+        <item>Universal Pictures</item>
+        <item>MNC Pictures</item>
+        <item>Sony Pictures Releasing</item>
+        <item>Lionsgate</item>
+        <item>Sony Pictures Releasing</item>
+        <item>Universal Pictures</item>
+        <item>Walt Disney Studios, Motion Pictures</item>
+        <item>Warner Bros. Pictures</item>
+    </string-array>
+</resources>
